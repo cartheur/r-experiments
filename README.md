@@ -9,3 +9,5 @@ A repo of experiments getting deeper knowledge of R.
     - 943: As a way to begin in a clean manner, having at least four years since working with this software, go [here](https://education.rstudio.com/learn/beginner/).
     - 1000: Version on both Win11 and Deb12, for comparative-learning purposes. After all, it's all math; linear algebra actually. Guess I can exercise the time spent in the Graduate level 5600 class all those years ago!
     - 1327: Third context is ready.
+    - 1555: Focus is on _joi_ as life is short and implementation is _everything_.
+    
